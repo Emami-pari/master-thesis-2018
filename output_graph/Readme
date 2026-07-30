@@ -1,0 +1,19 @@
+## Research Overview
+
+This MSc thesis investigates the dynamical characteristics of the Southwest Asia Subtropical Jet from the perspective of atmospheric wave activity.
+
+The analysis was performed using Fortran-based calculations and GrADS visualization tools.
+
+## Main Results
+
+### Temperature Profiles
+Selected vertical temperature profiles are presented to investigate the thermal structure associated with jet dynamics.
+
+### Jet Structure
+The spatial distribution and evolution of the Southwest Asia Jet are analyzed using atmospheric circulation fields.
+
+### Wave Activity
+Wave activity diagnostics are used to examine the interaction between planetary waves and jet dynamics.
+
+### Flux Analysis
+The fluxes across a defined control volume around the jet are investigated to identify regions of stronger incoming and outgoing energy transport.
